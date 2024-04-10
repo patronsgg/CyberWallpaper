@@ -1,6 +1,8 @@
 # Проект **CyberWallpaper**
+	
+![Logo](https://github.com/patronsgg/CyberWallpaper/blob/main/image/image.png)
 
- Первый проект, написанный на PyQt с использованием Sql
+ Мой первый проект, написанный на PyQt с использованием Sql
 
 ## Суть проекта:
 
